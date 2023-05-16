@@ -59,3 +59,4 @@ class View:
     @add_title('Результат удаления')
     def return_delete_result(self, result):
         print(result)
+        

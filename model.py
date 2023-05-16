@@ -67,3 +67,4 @@ class Model:
             return 'Рецепт был удалён!'
         else:
             return 'Слишком много рецептов'
+        
